@@ -1,0 +1,21 @@
+{
+    "name": "avro/classifieds-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony2 classifieds Bundle",
+    "keywords": ["classifieds"],
+    "homepage": "http://github.com/jdewit/ClassifiedsBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joris de Wit",
+            "email": "joris.w.dewit@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Avro\\ClassifiedsBundle": "" }
+    },
+    "target-dir": "Avro/ClassifiedsBundle"
+}
